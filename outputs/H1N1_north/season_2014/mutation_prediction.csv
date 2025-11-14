@@ -1,0 +1,5 @@
+predict_season,risk_mutation,previous_prevalence,predicted_prevalence
+2014,32S,0.0525,0.105
+2014,65S,0.0236,0.0452
+2014,300D,0.0656,0.1312
+2014,338I,0.1561,0.3061
